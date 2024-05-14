@@ -1,3 +1,6 @@
+# ИНЖЕНЕРИЯ БОЛЬШИХ ЯЗЫКОВЫХ МОДЕЛЕЙ  
+перевод и редакция ["Build a large language model from scratch"](https://livebook.manning.com/book/build-a-large-language-model-from-scratch/welcome/v-6/)
+
 ![Глава 1, что такое языковые модели](01.ipynb)  
 ![Глава 2, как данные передаются в модель](02.ipynb)
 
